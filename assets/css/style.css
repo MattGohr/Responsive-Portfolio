@@ -241,9 +241,11 @@ input[type=submit] {
 
 /*Media Query 980*/
 @media (min-width: 769px) and (max-width: 980px){
+/*
     body {
         background: red;
     }
+*/
 
     .auth-image {
         float: left;
@@ -268,10 +270,12 @@ input[type=submit] {
 /*Media Query 768*/
 /*social box same size*/
 @media (min-width: 641px) and  (max-width: 768px){
+/*
     body {
         background-color: red;
         background: green;
     }
+*/
 
     .sidebar {
         float: left;
@@ -303,10 +307,12 @@ input[type=submit] {
 /*Media Query 640*/
 /*nave is smaller*/
 @media (max-width: 640px){
+/*
     body {
         background-color: blue;
         background: blue;
     }
+*/
 
     .sidebar {
         float: left;
